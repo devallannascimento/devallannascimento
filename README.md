@@ -25,6 +25,7 @@
 
 ## Minhas tecnologias atuais
 
+ <div style="display: inline_block"><br>
 <img align="center" alt="Állan-SQLite" height="40" width="40" src="https://w7.pngwing.com/pngs/578/816/png-transparent-java-class-file-java-platform-standard-edition-java-development-kit-java-runtime-environment-coffee-jar-text-class-orange-thumbnail.png">
 <img align="center" alt="Állan-SQLite" height="40" width="65" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/2560px-SQLite370.svg.png">
 </div>
