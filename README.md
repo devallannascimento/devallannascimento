@@ -25,5 +25,5 @@
 
 ## Minhas tecnologias atuais
 
-<img align="center" alt="Állan-SQLite" height="30" width="40" src="https://iconduck.com/icons/102421/file-type-sqlite#">
+<img align="center" alt="Állan-SQLite" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png">
 </div>
