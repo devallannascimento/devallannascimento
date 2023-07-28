@@ -22,9 +22,3 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=devallannascimento&show_icons=true&theme=dark"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devallannascimento&layout=compact&langs_count=7&theme=dark"/>
 </div align="center">
-
-## Minhas tecnologias atuais
-<div style="display: inline_block"><br>
-  <img align="center" alt="Állan-SQLite" height="40" width="70" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_logo_icon_168609.png">
-  <img align="center" alt="Állan-SQLite" height="40" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/2560px-SQLite370.svg.png">
-</div>
