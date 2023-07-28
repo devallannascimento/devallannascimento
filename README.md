@@ -1,4 +1,4 @@
-## Olá mundo, me chamo Állan Nascimento - Seja bem vindo ao meu perfil do GitHub 👋
+## Olá! Seja bem vindo ao meu perfil do GitHub 👋
 
   <div> 
   <a href="https://www.instagram.com/allannascimento.s/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -9,10 +9,6 @@
 
 ## Sobre mim
 👋 Olá, meu nome é Állan e sou desenvolvedor android.
-
-💼 Linkedin: https://www.linkedin.com/in/allannascimento/  
-📧 Email: devallannascimento@gmail.com  
-📱 WhatsApp: +55 (73) 99912-2359
 
 👊 Tenho como objetivo aprimorar meus conhecimentos em desenvolvimento mobile. Atualmente estou em busca da minha primeria oportunidade na área e estou cursando o 1° semestre em Sistemas de Informação pela universidade Unopar.
 
