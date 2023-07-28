@@ -1,4 +1,4 @@
-## Sobre mim 👨🏽
+## Sobre mim
 👋 Olá, meu nome é Állan e sou desenvolvedor android.
 
 💼 Linkedin: https://www.linkedin.com/in/allannascimento/  
