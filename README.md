@@ -15,6 +15,7 @@
 💻 Hard Skills: • XML • Java • Kotlin • JavaScript • SQLite • GIT • Firebase • Retrofit • Web Service • TDD
 
 🔄 Soft Skills: • Comunicativo • Criativo • Trabalho em equipe • Flexível • Aprendizado constante
+</p>
 
 <div align="center">
   <a href="https://github.com/devallannascimento">
