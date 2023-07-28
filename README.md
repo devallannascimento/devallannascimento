@@ -22,3 +22,8 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=devallannascimento&show_icons=true&theme=dark"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devallannascimento&layout=compact&langs_count=7&theme=dark"/>
 </div align="center">
+
+## Minhas tecnologias atuais
+
+<img align="center" alt="Állan-SQLite" height="30" width="40" src="https://iconduck.com/icons/102421/file-type-sqlite#">
+</div>
