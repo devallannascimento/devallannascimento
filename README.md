@@ -12,7 +12,7 @@
 
 👊 Tenho como objetivo aprimorar meus conhecimentos em desenvolvimento mobile. Atualmente estou em busca da minha primeria oportunidade na área e estou cursando o 1° semestre em Sistemas de Informação pela universidade Unopar.
 
-💻 Hard Skills: • XML • Java • Kotlin • JavaScript • SQLite • GIT • Firebase • Retrofit • Web Service • TDD
+💻 Hard Skills: • XML • Java • Kotlin • JavaScript • SQLite • GIT • Firebase • Retrofit • Web Service • APIs Restful • Jetpack • TDD
 
 🔄 Soft Skills: • Comunicativo • Criativo • Trabalho em equipe • Flexível • Aprendizado constante
 </p>
