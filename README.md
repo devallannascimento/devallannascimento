@@ -24,7 +24,6 @@ Sou um desenvolvedor android e estou aberto a oportunidades e ansioso para contr
 - Criativo
 - Trabalho em equipe
 - Flexível
-- Aprendizado constante
 
 ## Você pode me encontrar aqui
 
