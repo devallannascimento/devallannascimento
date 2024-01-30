@@ -3,12 +3,10 @@
 ## Sobre mim
 Sou um desenvolvedor android e estou aberto a oportunidades e ansioso para contribuir em projetos desafiadores. Meu objetivo é aprimorar continuamente meus conhecimentos em desenvolvimento mobile. Atualmente, estou no segundo semestre do curso de Sistemas de Informação na Universidade Unopar.
 
-## Minhas linguagens são
+## Minhas stacks são
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-
-## Skills
 
 - Firebase
 - Hilt
