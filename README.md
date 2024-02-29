@@ -1,7 +1,7 @@
 # Olá, me chamo Állan Nascimento!
 
 ## Sobre mim
-Sou um desenvolvedor android e estou aberto a oportunidades e ansioso para contribuir em projetos desafiadores. Meu objetivo é aprimorar continuamente meus conhecimentos em desenvolvimento mobile. Atualmente, estou no segundo semestre do curso de Sistemas de Informação na Universidade Unopar.
+Sou um desenvolvedor android e estou em busca de oportunidades e ansioso para contribuir em projetos desafiadores. Meu objetivo é aprimorar continuamente meus conhecimentos em desenvolvimento mobile. Atualmente, estou no segundo semestre do curso de Sistemas de Informação na Universidade Unopar.
 
 ## Minhas stacks 
 
