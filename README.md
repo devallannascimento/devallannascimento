@@ -18,13 +18,6 @@ Sou um desenvolvedor android e estou em busca de oportunidades e ansioso para co
 - Testes unitários e de integração
 - Scrum
 
-## Soft Skills
-
-- Comunicativo
-- Criativo
-- Trabalho em equipe
-- Flexível
-
 ## Você pode me encontrar aqui
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devallannascimento@gmail.com)
