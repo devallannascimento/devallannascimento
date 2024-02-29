@@ -10,13 +10,18 @@ Sou um desenvolvedor android e estou aberto a oportunidades e ansioso para contr
 
 ## Minhas stacks 
 
-- Firebase
-- Hilt
+- Desenvolvimento Android (Java e Kotlin)
+- Arquiteturas MVC, MVP, MVVM
 - Clean Architecture
-- MVC e MVVM
-- Retrofit
-- Coroutines
-- Android Studio
+- Injeção de dependências com Hilt
+- APis com Retrofit, Coroutines
+- Service e Broadcast
+- SOLID
+- Git e GitHub
+- Firebase, SQLite e SQL
+- Jetpack (LiveData, DataBinding, ViewModel, Room, WorkManager, Navigation e Compose)
+- Testes unitários e de integração
+- Scrum
 
 ## Soft Skills
 
