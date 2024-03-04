@@ -9,7 +9,7 @@ Sou um desenvolvedor android e estou em busca de oportunidades e ansioso para co
 - Arquiteturas MVC, MVP, MVVM
 - Clean Architecture
 - Injeção de dependências com Hilt
-- APis com Retrofit, Coroutines
+- APIs com Retrofit e Coroutines
 - Service e Broadcast
 - SOLID
 - Git e GitHub
