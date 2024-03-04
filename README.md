@@ -15,7 +15,7 @@ Sou um desenvolvedor android e estou em busca de oportunidades e ansioso para co
 - Git e GitHub
 - Firebase, SQLite e SQL
 - Jetpack (LiveData, DataBinding, ViewModel, Room, WorkManager, Navigation e Compose)
-- Testes unitários e de integração
+- Testes unitários
 - Scrum
 
 ## Você pode me encontrar aqui
