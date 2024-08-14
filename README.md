@@ -4,7 +4,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsa.me/5573999122359)
 
 ### Sobre mim
-Sou um desenvolvedor android e estou em busca de oportunidades e ansioso para contribuir em projetos desafiadores. Meu objetivo é aprimorar continuamente meus conhecimentos em desenvolvimento mobile. Atualmente, estou no segundo semestre do curso de Sistemas de Informação na Universidade Unopar.
+Sou um desenvolvedor que começou sua trajetória no desenvolvimento mobile, com um foco particular no ecossistema Android, que despertou minha paixão pelas possibilidades oferecidas pela plataforma. Atualmente, estou ampliando meus horizontes ao estudar e praticar desenvolvimento web, explorando novas tecnologias e abordagens para enriquecer minha experiência profissional.
 
 ### Tecnologias e Habilidades:
 Mobile: Java, Kotlin, Jetpack<br>
