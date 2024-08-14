@@ -22,9 +22,7 @@ Sou um desenvolvedor android e estou em busca de oportunidades e ansioso para co
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devallannascimento@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allannascimento/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/allannascimento.s/)
-
-## Estatísticas do GitHub
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsa.me/5573999122359)
 
 <div>
   <img height="168em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=devallannascimento&show_icons=true&theme=dark"/>
