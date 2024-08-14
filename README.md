@@ -21,6 +21,7 @@ Sou um desenvolvedor android e estou em busca de oportunidades e ansioso para co
 ## Você pode entrar em contato comigo por aqui
 
 E-mail: devallannascimento@gmail.com
+<br>
 Telefone: (73) 99912-2359
 
 ## Estatísticas do GitHub
