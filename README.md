@@ -10,7 +10,7 @@ Sou um desenvolvedor que começou sua trajetória no desenvolvimento mobile, com
 Mobile: Java, Kotlin, Jetpack<br>
 Front-end: HTML, CSS, Angular, JavaScript, JQuery<br>
 Back-end: Java, ASP.NET Core<br>
-Banco de dados: PostgreSQL, MySQL, SQLite, Firebase (Firestore)<br>
+Banco de dados: MySQL, PostgreSQL, SQLite, Firebase Firestore<br>
 Ferramentas e Metodologias: Git, Metodologias Ágeis (Scrum, Kanban)
 
 <div>
