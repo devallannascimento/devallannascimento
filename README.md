@@ -4,7 +4,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsa.me/5573999122359)
 
 ### Sobre mim
-Sou um desenvolvedor que começou sua trajetória no desenvolvimento mobile, com um foco particular no ecossistema Android, que despertou minha paixão pelas possibilidades oferecidas pela plataforma. Atualmente, estou ampliando meus horizontes ao estudar e praticar desenvolvimento web, explorando novas tecnologias e abordagens para enriquecer minha experiência profissional.
+Como desenvolvedor Android, tenho me dedicado a criar e otimizar aplicativos e funcionalidades para dispositivos móveis, utilizando as melhores práticas e tecnologias do mercado. Minha principal ferramenta de trabalho é o Kotlin, a linguagem nativa para o desenvolvimento Android, com a qual implementei uma variedade de soluções eficientes e escaláveis.
 
 ### Tecnologias e Habilidades:
 Mobile: Java, Kotlin, Jetpack<br>
