@@ -4,13 +4,13 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsa.me/5573999122359)
 
 ### Sobre mim
-Como desenvolvedor Android, tenho me dedicado a criar e otimizar aplicativos e funcionalidades para dispositivos móveis, utilizando as melhores práticas e tecnologias do mercado. Minha principal ferramenta de trabalho é o Kotlin, a linguagem nativa para o desenvolvimento Android, com a qual implementei uma variedade de soluções eficientes e escaláveis.
+Sou um desenvolvedor com experiência na criação de aplicações utilizando Kotlin, Java e PHP. Como freelancer, já participei de projetos variados, o que me proporcionou uma base sólida em diferentes áreas. Estou constantemente buscando me atualizar nas mais recentes tecnologias para contribuir com soluções de valor e evoluir nas minhas habilidades técnicas.
 
 ### Tecnologias e Habilidades:
-Mobile: Java, Kotlin, Jetpack<br>
-Front-end: HTML, CSS, Angular, JavaScript, JQuery<br>
-Back-end: Java, ASP.NET Core<br>
-Banco de dados: MySQL, PostgreSQL, SQLite, Firebase Firestore<br>
+Mobile: Java, Kotlin, Jetpack
+Front-end: HTML, CSS, Angular, JavaScript, JQuery
+Back-end: Java, Kotlin, PHP, ASP.NET Core
+Banco de dados: PostgreSQL, MySQL, SQLite, Firebase (Firestore)
 Ferramentas e Metodologias: Git, Metodologias Ágeis (Scrum, Kanban)
 
 <div>
