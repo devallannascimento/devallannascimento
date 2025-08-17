@@ -7,10 +7,10 @@
 Desenvolvedor de software focado em melhoria contínua de sistemas, integrações e entrega de soluções alinhadas às necessidades do cliente. Desde 2023, venho contribuindo com análise de requisitos, manutenção evolutiva, correção de bugs e implementação de funcionalidades em sistemas de gestão e aplicações personalizadas.
 
 ### Tecnologias e Habilidades:
-Mobile: Java, Kotlin, Jetpack
-Front-end: JavaScript, JQuery, HTML, CSS, Angular e Bootstrap
-Back-end: PHP, Java E Kotlin
-Banco de dados: PostgreSQL, MySQL, SQLite, Firebase (Firestore)
+Mobile: Java, Kotlin, Jetpack<br>
+Front-end: JavaScript, JQuery, HTML, CSS, Angular e Bootstrap<br>
+Back-end: PHP, Java E Kotlin<br>
+Banco de dados: PostgreSQL, MySQL, SQLite, Firebase (Firestore)<br>
 
 <div>
   <img height="168em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=devallannascimento&show_icons=true&theme=dark"/>
